@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.altacare.org/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.altacare.org/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/services.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/services.html?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/services.html?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/services.html?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/services.html?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/services.html?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/services.html?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/services.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.altacare.org/opwdd.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/opwdd.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/opwdd.html?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/opwdd.html?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/opwdd.html?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/opwdd.html?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/opwdd.html?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/opwdd.html?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/opwdd.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.altacare.org/agency-growth.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/agency-growth.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/agency-growth.html?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/agency-growth.html?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/agency-growth.html?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/agency-growth.html?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/agency-growth.html?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/agency-growth.html?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/agency-growth.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.altacare.org/community.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/community.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/community.html?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/community.html?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/community.html?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/community.html?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/community.html?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/community.html?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/community.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.altacare.org/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.altacare.org/contact.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.altacare.org/contact.html?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://www.altacare.org/contact.html?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.altacare.org/contact.html?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://www.altacare.org/contact.html?lang=sq"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://www.altacare.org/contact.html?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.altacare.org/contact.html?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.altacare.org/contact.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

@@ -143,15 +143,31 @@ h1, h2, h3, h4 {
 .header-inner {
   display: flex;
   align-items: center;
-  gap: 18px;
+  gap: 20px;
   height: var(--header-h);
 }
-.brand { display: flex; align-items: center; gap: 11px; font-family: var(--font-head); }
+/* Header runs full width so the logo sits in the true left corner (and the
+   nav/language sit in the right corner) instead of inside the centered
+   content column. */
+.site-header .header-inner {
+  max-width: none;
+  padding-inline: clamp(16px, 3vw, 32px);
+}
+/* Logo pinned to the start corner; the auto margin pushes everything else
+   (nav + language + menu) to the opposite corner. Works in LTR, RTL, and when
+   the mobile nav detaches from the flow. */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  font-family: var(--font-head);
+  flex: 0 0 auto;
+  margin-inline-end: auto;
+}
 .brand__logo { height: 40px; width: auto; }
-.brand__name { font-weight: 700; font-size: 1.32rem; color: var(--navy); letter-spacing: -.02em; }
+.brand__name { font-weight: 700; font-size: 1.32rem; color: var(--navy); letter-spacing: -.02em; white-space: nowrap; }
 .brand__name b { color: var(--green); }
 
-.primary-nav { margin-left: auto; }
 .primary-nav ul { display: flex; align-items: center; gap: 4px; }
 .primary-nav a {
   font-family: var(--font-head);
